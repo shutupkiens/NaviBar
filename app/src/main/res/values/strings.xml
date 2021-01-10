@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A.I.D.</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="self_help_guide"><u>Self-help guide</u></string>
+    <string name="what_is_depression"><u>What is depression</u></string>
+</resources>
